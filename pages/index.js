@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Button from '../components/Button'
-import Styled from '../components/ButtonStyled'
+import StyledButton from '../components/StyledButton'
 
 const Home = () => (
   <div className="container">
@@ -16,7 +16,7 @@ const Home = () => (
 
       <Button />
 
-      <ButtonStyled />
+      <StyledButton />
 
       <a href="" className="button"> I think I am a button</a>
 
