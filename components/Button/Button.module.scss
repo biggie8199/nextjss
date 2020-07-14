@@ -1,9 +1,15 @@
 @import '_variables';
 
-.button {
+// .button {
+//   color: white;
+//   padding: 15px;
+//   background-color: $primary-color;
+// }
+
+a {
   color: white;
-  padding: 15px;
-  background-color: $primary-color;
+  background-color: orchid;
+  border-radius: 6px;
 }
 
 // Output:
