@@ -18,7 +18,7 @@ const Home = () => (
 
       <StyledButton />
 
-      <a href="" className="button"> I think I am a button</a>
+      <a href="" className="button">I am a link</a>
 
       <p className="description">
         Get started by editing <code>pages/index.js</code>
