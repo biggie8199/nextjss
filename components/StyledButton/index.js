@@ -9,6 +9,7 @@ export default function Button() {
       <style jsx>{`
         a {
           border: 2px solid hotpink;
+          padding: 15px;
         }
       `}
       </style>
