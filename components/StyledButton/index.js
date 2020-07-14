@@ -9,13 +9,14 @@ export default function Button() {
       <style jsx>{`
         .button {
           border: 2px solid hotpink;
+          margin: 5px;
         }
       `}
       </style>
       <style global jsx>{`
         h1 {
           color: orange;
-        }
+        }s
       `}  
       </style>
     </div>
