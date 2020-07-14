@@ -3,7 +3,7 @@ import React from "react";
 export default function Button() {
   return (
     <div>
-      <a className={styles.button} href="">
+      <a className={'button'} href="#">
         I'm a Styled JSX Button
       </a>
       <style jsx>{`
