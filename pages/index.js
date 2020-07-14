@@ -15,6 +15,8 @@ const Home = () => (
 
       <Button />
 
+      <a href="" className="button"> I think I am a button</a>
+
       <p className="description">
         Get started by editing <code>pages/index.js</code>
       </p>
