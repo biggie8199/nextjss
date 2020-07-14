@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Button() {
   return (
-    <div>
-      <a className={'button'} href="#">
+    <>
+      <a href="#">
         I'm a Styled JSX Button
       </a>
       <style jsx>{`
@@ -18,6 +18,6 @@ export default function Button() {
         }
       `}  
       </style>
-    </div>
+    </>
   );
 }
