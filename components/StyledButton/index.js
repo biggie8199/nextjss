@@ -7,16 +7,14 @@ export default function Button() {
         I'm a Styled JSX Button
       </a>
       <style jsx>{`
-        .button {
+        a {
           border: 2px solid hotpink;
-          padding: 5px;
-          margin: 5px;
         }
       `}
       </style>
       <style global jsx>{`
         h1 {
-          color: orange;
+          color: #3f3f3f;
         }
       `}  
       </style>
