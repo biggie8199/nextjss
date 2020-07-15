@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Button from '../components/Button'
 import StyledButton from '../components/StyledButton'
+import AnotherStyledButton from '../components/AnotherStyledButton'
 
 const Home = () => (
   <div className="container">
@@ -17,6 +18,8 @@ const Home = () => (
       <Button />
 
       <StyledButton />
+
+      <AnotherStyledButton />
 
       <a href="" className="button">I am a link</a>
 
