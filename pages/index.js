@@ -19,7 +19,7 @@ const Home = () => (
 
       <StyledButton />
 
-      <AnotherStyledButton />
+      {/* <AnotherStyledButton /> */}
 
       <a href="" className="button">I am a link</a>
 
